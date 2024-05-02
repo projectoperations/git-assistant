@@ -247,8 +247,8 @@
 	},
 	"dependencies": {
 		"deep-diff": "^1.0.2",
-		"simple-git": "^1.107.0",
-		"vsce": "^1.53.0",
-		"vscode": "^1.1.21"
+		"simple-git": "^3.16.0",
+		"vsce": "^2.15.0",
+		"vscode": "^1.1.37"
 	}
 }
